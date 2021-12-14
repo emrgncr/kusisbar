@@ -1,0 +1,113 @@
+html, body {
+    width:300px;
+    min-height: 400px;
+    margin-left: 3.5px;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    background-color:rgb(59, 50, 116);
+  }
+  .genel{
+    width:-webkit-calc(100% - 10px);
+    width:calc(100% - 10px);
+    margin-left: 0px;
+    margin-right: auto;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    flex-direction: column;
+    background-color:rgb(59, 50, 116);
+  }
+  .inp{
+    border-radius: 4px;
+    padding-left: 8px;
+    font-size:medium;
+    width: 92%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2px;
+    padding-bottom: 2px;
+  }
+
+  .yazi {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%;
+    padding: 4px;
+    font-size: 1.2em;
+    text-align: center;
+    color:gold;
+    text-shadow: gainsboro;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .smaltext{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:gold;
+  }
+  .clickme {
+      min-width: fit-content;
+      max-width: 55%;
+      padding: 4px;
+      min-height: 30px;
+      max-height:max-content;
+      align-content: center;
+      justify-content: center;
+      display: flex;
+      font-size:large;
+      text-align: center;
+      cursor:pointer;
+      background-color:mediumslateblue;
+      color:snow;
+      border-radius: 8px;
+      flex-direction: column;
+      margin-right: auto;
+      margin-left: auto;
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .clickme:hover{
+      background-color: slateblue;
+      color:gold;
+  }
+  .sec{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:mediumslateblue;
+    text-align: center;
+    color: snow;
+    font-size: large;
+    align-content:center;
+    justify-content:center;
+    flex-direction: column;
+    width: 90%;
+    min-height: 50px;
+    max-height:max-content;
+    padding: 4px;
+    border-radius: 6px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .bigbox{
+    
+    background-color: slateblue;
+    width: 97%;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    padding: 4px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 12px;
+    margin-top: 8px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.bgg{
+  background-color:rgb(53, 107, 207);
+  align-content: space-around;
+  display:block;
+  height: fit-content;
+}
