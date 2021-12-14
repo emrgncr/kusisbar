@@ -1,7 +1,7 @@
 {
-    "name": "Ekonomik Getir",
+    "name": "Kusisbar",
     "version": "1.1.0",
-    "description": "A browser addon that downloads epub from mcgrawhill's online book",
+    "description": "A browser addon that adds a navigation bar to kusis. Also makes the kusis logo clickable.",
     "permissions": ["activeTab","tabs","*://kusis.ku.edu.tr/*"],
     "background":{
       "scripts":["scr.js"]
