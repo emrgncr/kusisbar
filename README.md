@@ -9,7 +9,7 @@ The main buttons themselves are not clickable but hovering on them will create c
 
 ![Example](./img/ss3.png "Example")
 
-The addon is tested only on Firefox for Linux, but it should work for other browsers as well. (Also seems to work fine on Chrome, Windows.)
+The addon is tested on Firefox, Opera and Chrome.
 
 ## Installation
 
