@@ -9,8 +9,10 @@ The main buttons themselves are not clickable but hovering on them will create c
 
 ![Alt text](./img/ss3.png "Example")
 
-The addon is tested only on Firefox for Linux, but it should work for other browsers as well.
+The addon is tested only on Firefox for Linux, but it should work for other browsers as well. (Also seems to work fine on Chrome, Windows.)
 
 ## Installation
 
 Currently the only way of installing is downloading (or cloning) this repository and installing the addon manually.
+
+After a successfull installation, the addon should work in the background when a KUSIS tab is open.
