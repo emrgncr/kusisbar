@@ -5,6 +5,7 @@ console.log("asdasd")
 
 
 
+
 //Upon click
 chrome.tabs.onUpdated.addListener(function(t,e,a) {
     //If user clicked to the button and user is in the right page
